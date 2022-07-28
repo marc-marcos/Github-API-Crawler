@@ -2,9 +2,9 @@ from github import Github
 from drawer import drawObsidian
 import time
 
-g = Github("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")
+g = Github("INSERT YOUR TOKEN HERE")
 
-initialUser = "lschwetlick"
+initialUser = "INSERT SOME GITHUB USERNAME HERE"
 users = [initialUser]
 comer = initialUser
 d = {}
