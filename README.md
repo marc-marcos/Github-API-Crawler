@@ -6,7 +6,7 @@ All the requirements can be checked in the ``requirements.txt`` file.
 
 The program exports the results to a format where the program Obsidian MD can interpret them to form graphics like these:
 
-![obsidian image](README/img.jpg)
+![obsidian image](README/img.jpeg)
 
 This image corresponds to a network of depth 50, that is the scripts default value.
 
